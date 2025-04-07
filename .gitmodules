@@ -1,7 +1,6 @@
 [submodule "My_Portfolio_Site"]
     path = My_Portfolio_Site
-    url = <https://github.com/dariaantonescu/portfolio_dariaant.git>
-
+    url = https://github.com/dariaantonescu/portfolio_dariaant.git
 [submodule "my-portfolio-copy"]
     path = my-portfolio-copy
-    url = <https://github.com/dariaantonescu/my-portfolio-copy.git>
+    url = https://github.com/dariaantonescu/my-portfolio-copy.git
